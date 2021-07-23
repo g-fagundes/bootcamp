@@ -5,3 +5,4 @@ Olá! Bem vindo a meu Livro de Receitas.
 ### Receitas
 
 - Batata Frita
+- Pavê
