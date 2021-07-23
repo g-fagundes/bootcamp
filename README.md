@@ -4,6 +4,6 @@ Olá! Bem vindo a meu Livro de Receitas.
 
 ### Receitas
 
-- Batata Frita
+- Batata Frita :potato:
 - Pavê
 - Mousse
