@@ -6,3 +6,4 @@ Olá! Bem vindo a meu Livro de Receitas.
 
 - Batata Frita
 - Pavê
+- Mousse
