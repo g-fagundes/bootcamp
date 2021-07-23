@@ -5,5 +5,5 @@ Olá! Bem vindo a meu Livro de Receitas.
 ### Receitas
 
 - Batata-frita :potato:
-- Pavê
+- Strogonoff
 - Mousse
